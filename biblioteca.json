@@ -1,0 +1,224 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Ficção"
+    },
+    {
+      "id": 2,
+      "nome": "Não Ficção"
+    },
+    {
+      "id": 3,
+      "nome": "História"
+    },
+    [
+      {
+        "id": 4,
+        "nome": "Meia"
+      },
+      {
+        "id": 5,
+        "nome": "Meios"
+      },
+      {
+        "id": 6,
+        "nome": "Meio Socorro"
+      },
+      {
+        "id": 7,
+        "nome": "Meio catolica"
+      },
+      {
+        "id": 8,
+        "nome": "Meio Cadastro"
+      },
+      {
+        "id": 9,
+        "nome": "Ambiente"
+      },
+      {
+        "id": 10,
+        "nome": "Moda"
+      },
+      {
+        "id": 11,
+        "nome": "Segurança"
+      },
+      {
+        "id": 12,
+        "nome": "Sáude"
+      },
+      {
+        "id": 13,
+        "nome": "Meio "
+      }
+    ]
+  ],
+  "livros": [
+    {
+      "id": 1,
+      "titulo": "Dom Quixote",
+      "autor": "Miguel de Cervantes",
+      "anoPublicacao": 1605,
+      "isbn": "978-85-359-0277-3",
+      "disponivel": true,
+      "categoriaId": 1
+    },
+    {
+      "id": 2,
+      "titulo": "Origens",
+      "autor": "Neil deGrasse Tyson",
+      "anoPublicacao": 2017,
+      "isbn": "978-85-359-0650-4",
+      "disponivel": true,
+      "categoriaId": 2
+    },
+    {
+      "id": 3,
+      "titulo": "Uma Breve História do Tempo",
+      "autor": "Stephen Hawking",
+      "anoPublicacao": 1988,
+      "isbn": "978-85-359-0278-0",
+      "disponivel": false,
+      "categoriaId": 2
+    },
+    [
+      {
+        "id": 4,
+        "titulo": "Do Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 5,
+        "titulo": "Dom Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 6,
+        "titulo": "Dm Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 7,
+        "titulo": "Dom uixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 8,
+        "titulo": "Dom Qixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 9,
+        "titulo": "Dom Quxote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 10,
+        "titulo": "Dom Quiote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 11,
+        "titulo": "Dom Quixte",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 12,
+        "titulo": "Dom Quixoe",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 13,
+        "titulo": "Dom Quixot",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 14,
+        "titulo": "om Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 15,
+        "titulo": "m Quixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 16,
+        "titulo": "Dom ixote",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 17,
+        "titulo": "Dom Qute",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      },
+      {
+        "id": 18,
+        "titulo": "Dom Quix",
+        "autor": "Miguel de Cervantes",
+        "anoPublicacao": 1605,
+        "isbn": "978-85-359-0277-3",
+        "disponivel": true,
+        "categoriaId": 1
+      }
+    ]
+  ]
+}
